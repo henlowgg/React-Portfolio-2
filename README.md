@@ -24,6 +24,8 @@ The project is deployed here: https://reactportfoliomain.gatsbyjs.io/
 This project is covered by the BSD Zero Clause License
 
 ## Contributing
+This project is open source and can be found on github. I would like to make a huge shoutout to Gatsby with their amazing documentation and community. Also would like to thank the creators of the [React](https://reactjs.org/) and [Gatsby](https://www.gatsbyjs.org/) libraries for their amazing work. Utilizing these libraries has been a great way to learn and grow.
+
 If you want to make contributions, or to use this template, please refer to the following instructions:
 
 Reach out to me via the contact information below to see how I can help.
